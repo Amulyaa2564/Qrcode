@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(34, 37, 43);
+}
+h1{
+    font-size: 20px;
+}
+.qr-container{
+    background-color: white;
+}
+.btn-primary{
+    background-color: rgb(68, 85, 255);
+}
+.error{
+    color: red;
+    font-size: 12px;
+}
+.fa-qrcode{
+    font-size: 100px;
+}
